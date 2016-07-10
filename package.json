@@ -1,0 +1,19 @@
+{
+  "name": "ramen",
+  "version": "1.0.0",
+  "description": "Open Source framework to create native multi-threaded applications using javascript",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Korky/ramen.git"
+  },
+  "author": "Fernando J Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Korky/ramen/issues"
+  },
+  "homepage": "https://github.com/Korky/ramen#readme"
+}
